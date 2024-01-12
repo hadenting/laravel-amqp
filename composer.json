@@ -1,6 +1,7 @@
 {
   "name": "hadenting/laravel-amqp",
   "description": "在laravel框架内快速使用amqp",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Hadenting\\LaravelAmqp\\": "src/"
