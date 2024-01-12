@@ -1,4 +1,4 @@
-# conrmq
+# laravel-amqp
 
 laravel 快速使用 amqp
 

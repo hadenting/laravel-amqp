@@ -1,0 +1,23 @@
+{
+  "name": "hadenting/laravel-amqp",
+  "description": "在laravel框架内快速使用amqp",
+  "autoload": {
+    "psr-4": {
+      "Hadenting\\LaravelAmqp\\": "src/"
+    }
+  },
+  "autoload-test": {
+    "psr-4": {
+      "Hadenting\\LaravelAmqp\\Test\\": "test/"
+    }
+  },
+  "authors": [
+    {
+      "name": "hadenting"
+    }
+  ],
+  "require": {
+    "laravel/framework": "^7.30",
+    "php-amqplib/php-amqplib": "^3.6"
+  }
+}
